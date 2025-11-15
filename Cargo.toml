@@ -1,0 +1,6 @@
+[package]
+name = "buffy_stack_format_write"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
